@@ -7,7 +7,7 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lorenatoscano/proffy.svg">
   
-  <a href="https://github.com/rafacdomin/proffy/commits/master">
+  <a href="https://github.com/lorenatoscano/proffy/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lorenatoscano/proffy.svg">
   </a>
 
