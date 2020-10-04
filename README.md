@@ -67,13 +67,13 @@ $ cd proffy
 $ cd server
 
 # Instale as dependências
-$ npm install || yarn install 
+$ npm install
 
 # Execute a aplicação
-$ npm run start || yarn start 
+$ npm run start
 ```
 
-Acesse a API em http://localhost:3001/
+Acesse a API em http://localhost:3333/
 
 ### 💻 Web
 
@@ -82,10 +82,10 @@ Acesse a API em http://localhost:3001/
 $ cd web
 
 # Instale as dependências
-$ npm install || yarn install 
+$ npm install
 
 # Execute a aplicação
-$ npm run start || yarn start 
+$ npm run start
 ```
 
 Acesse em seu navegador http://localhost:3000/ para ver o resultado.
@@ -101,10 +101,10 @@ Além disso, clone este repositório na sua máquina. Dentro da pasta do projeto
 $ cd mobile
 
 # Instale as dependências
-$ npm install || yarn install 
+$ npm install 
 
 # Execute a aplicação
-$ npm run start || yarn start
+$ npm run start
 ```
 
 Depois leia o QRCode com o aplicativo [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode por meio de um emulador.
