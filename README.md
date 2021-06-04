@@ -27,7 +27,7 @@ Projeto desenvolvido durante a Next Level Week #2 da @Rocketseat. Consiste numa 
 
 ### Acesse os templates no Figma:
 - [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
-- [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
+<!-- - [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile) -->
 
 
 ## Tecnologias utilizadas
@@ -90,7 +90,7 @@ $ npm run start
 
 Acesse em seu navegador http://localhost:3000/ para ver o resultado.
 
-### 📱 Mobile
+<!-- ### 📱 Mobile
 
 Para rodar a versão mobile você precisa de um smartphone com o aplicativo [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado ou um emulador android/ios.
 <br />
@@ -107,7 +107,7 @@ $ npm install
 $ npm run start
 ```
 
-Depois leia o QRCode com o aplicativo [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode por meio de um emulador.
+Depois leia o QRCode com o aplicativo [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode por meio de um emulador. -->
 
 
 ## Licença e Autora
