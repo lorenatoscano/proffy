@@ -1,4 +1,9 @@
 <p align="center">
+   <a href="https://github.com/lorenatoscano/proffy/blob/main/README.md">Português (Brasil)</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
+   <a href="https://github.com/lorenatoscano/proffy/blob/main/README-en.md">English</a>
+</p>
+
+<p align="center">
    <img src="https://user-images.githubusercontent.com/52718710/89372089-94173a00-d6bb-11ea-940c-f9f919fdb83c.png" alt="Proffy" width="280"/>
 </p>
 
