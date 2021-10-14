@@ -1,6 +1,6 @@
 <p align="center">
-   <a href="https://github.com/lorenatoscano/proffy/blob/main/README-en.md">English</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
-   <a href="https://github.com/lorenatoscano/proffy/blob/main/README.md">Português (Brasil)</a>
+   <a href="https://github.com/lorenatoscano/proffy/blob/master/README-en.md">English</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
+   <a href="https://github.com/lorenatoscano/proffy/blob/master/README.md">Português (Brasil)</a>
 </p>
 
 <p align="center">
